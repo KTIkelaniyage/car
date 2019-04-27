@@ -1,0 +1,57 @@
+[{
+  
+  "model": "SUZUKI",
+  "name": "Maruti Swift",
+  "year": 2018,
+  "engine": "1280cc",
+  "mileage": "28.4 kmpl",
+  "transmission": "Auto/Manual",
+  "features": "The Swift is a well-equipped hatchback, particularly in terms of safety. It comes with dual front airbags, anti-lock braking system (ABS) with electronic brakeforce distribution (EBD) and ISOFIX child seat anchors as standard across the range. However, in a recent test conducted by Global NCAP, the Swift scored a dismal 2-star rating in adult as well as child occupant safety.",
+  "img1": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Swift/6323/front-left-side-47.jpg",
+  "img2": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Maruti-Swift/6323/side-view-(left)-90.jpg",
+  "img3": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Maruti-Swift/6323/front-view-118.jpg",
+  "img4": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Maruti-Swift/6323/rear-view-119.jpg"
+ 
+}, {
+  
+  "model": "SUZUKI",
+  "name": " Maruti Wagon R",
+  "year": 2019,
+  "engine": "1197cc",
+  "mileage": "33.4 kmpl",
+  "transmission": "Auto/Manual",
+  "features": "he new Wagon R now gets a driver airbag, ABS with EBD, front seatbelt reminder, speed alert system and rear parking sensors as standard safety features. The co-passenger airbag along with front seatbelts with pretensioners and load limiters are restricted to the top-spec Z variant and are optional on the L and V variants for an extra cos.",
+  "img1": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Wagon-R/6745/1548228726831/front-left-side-47.jpg",
+  "img2": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Wagon-R/6741/1548249320425/rear-left-view-121.jpg",
+  "img3": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Wagon-R/6741/1548249320425/side-view-(right)-38.jpg",
+  "img4": "https://stimg.cardekho.com/images/carinteriorimages/630x420/Maruti/Maruti-Wagon-R/6741/1548249233387/dashboard-59.jpg"
+  
+}, {
+ 
+  "model": "SUZUKI",
+  "name": " Maruti Celerio",
+  "year": 2019,
+  "engine": "998cc",
+  "mileage": "31 kmpl",
+  "transmission": "Auto/Manual",
+  "features": "The driver’s airbag is offered as standard across all variants while the passenger airbag is available in the ‘O’ trim levels. The top trims, Z and Z(O), are the only ones to offer an audio system but no infotainment screen and electrically adjustable ORVMs. It also gets front fog lamps, alloy wheels and rear window wiper and washer.",
+  "img1": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Celerio/6056/front-left-side-47.jpg",
+  "img2": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Celerio/6056/front-view-118.jpg",
+  "img3": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Celerio/6056/rear-view-119.jpg",
+  "img4": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Celerio/6056/grille-97.jpg"
+ 
+}, {
+ 
+  "model": "SUZUKI",
+  "name": " Maruti Alto 800",
+  "year": 2019,
+  "engine": "796cc",
+  "mileage": "24 kmpl",
+  "transmission": "Manual",
+  "features": "The Alto comes with driver airbag as standard. A front passenger airbag is offered as an option on the Std and LXi variants, while it is standard on the top-spec VXi. Further safety updates include ABS with EBD, rear parking sensors, a speed alert system as well as a front occupant seatbelt reminder.",
+  "img1": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Alto-800/6898/1556028493778/front-left-side-47.jpg",
+  "img2": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Alto-800/6898/1556028493778/front-view-118.jpg",
+  "img3": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Alto-800/6898/1556028493778/headlight-43.jpg",
+  "img4": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Alto-800/6898/1556028493778/window-line-158.jpg"
+
+}]
