@@ -2,6 +2,7 @@
   
   "model": "SUZUKI",
   "name": "Maruti Swift",
+  "category": "hatchback",
   "year": 2018,
   "engine": "1280cc",
   "mileage": "28.4 kmpl",
@@ -16,6 +17,7 @@
   
   "model": "SUZUKI",
   "name": " Maruti Wagon R",
+   "category": "hatchback",
   "year": 2019,
   "engine": "1197cc",
   "mileage": "33.4 kmpl",
@@ -30,6 +32,7 @@
  
   "model": "SUZUKI",
   "name": " Maruti Celerio",
+   "category": "hatchback",
   "year": 2019,
   "engine": "998cc",
   "mileage": "31 kmpl",
@@ -44,6 +47,7 @@
  
   "model": "SUZUKI",
   "name": " Maruti Alto 800",
+   "category": "hatchback",
   "year": 2019,
   "engine": "796cc",
   "mileage": "24 kmpl",
