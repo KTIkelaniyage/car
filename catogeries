@@ -1,0 +1,34 @@
+[
+	{
+	"name":"HATCHBACK",
+	"weburl":"https://cdn2.carbuyer.co.uk/sites/carbuyer_d7/files/car_images/suzuki-baleno.jpg"
+
+	},
+
+	{
+	"name":"SEDAN" ,
+	"weburl":"https://www.drivespark.com/car-image/640x480x100/car/300x225x19864749-maruti_ciaz.jpg.pagespeed.ic.ihlqdGWvxS.jpg"
+},
+{
+	"name":"SUV" ,
+	"weburl":"https://cdn2.carbuyer.co.uk/sites/carbuyer_d7/files/car_images/vitara_cutout_0.jpg"
+
+},
+{
+	"name":"MPV" ,
+	"weburl":"https://cache2.pakwheels.com/system/car_generation_pictures/2844/original/Suzuki_APV_2008.jpg"
+},
+{
+	"name":"CROSSOVER" ,
+	"weburl":"https://cdn1.carbuyer.co.uk/sites/carbuyer_d7/files/styles/article_main_image/public/car_images/suzuki-sx4-s-cross.jpg"
+
+},
+{
+	"name":"CONVERTIBLE" ,
+	"weburl":"https://s1.cdn.autoevolution.com/images/news/2018-suzuki-jimny-convertible-masterfully-rendered-126487_1.png"
+},
+{
+	"name":"COUPE" ,
+	"weburl":"https://images.carscoops.com/2015/10/Suzuki-Fronte-Coupe-rendering-0.jpg"
+}
+]
