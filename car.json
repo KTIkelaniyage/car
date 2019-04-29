@@ -1,7 +1,7 @@
 [{
   
   "model": "SUZUKI",
-  "name": "Maruti Swift",
+  "name": "Swift",
   "category": "hatchback",
   "year": 2018,
   "engine": "1280cc",
@@ -16,7 +16,7 @@
 }, {
   
   "model": "SUZUKI",
-  "name": " Maruti Wagon R",
+  "name": "Wagon R",
    "category": "hatchback",
   "year": 2019,
   "engine": "1197cc",
@@ -31,7 +31,7 @@
 }, {
  
   "model": "SUZUKI",
-  "name": " Maruti Celerio",
+  "name": "Celerio",
    "category": "hatchback",
   "year": 2019,
   "engine": "998cc",
